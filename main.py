@@ -13,3 +13,9 @@ with col2:
     I am welcoming you to my personal portfolio webpage, hope you like it and learn something new from it!    
     """
     st.info(content)
+
+content2 = """
+Below you can find some of the apps I have built in Python! Feel free to contact me should you have any questions and offers!
+"""
+
+st.write(content2)
